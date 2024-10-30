@@ -1,4 +1,4 @@
-import unittest import TestCase
+from unittest import TestCase
 
 class TestAddEndpoint(unittest.TestCase):
     def setup(self):
